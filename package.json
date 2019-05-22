@@ -1,0 +1,22 @@
+{
+  "name": "mdev1001-22may",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terminator101/MDEV1001-22May.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terminator101/MDEV1001-22May/issues"
+  },
+  "homepage": "https://github.com/terminator101/MDEV1001-22May#readme",
+  "devDependencies": {
+    "sqlite3": "^4.0.8"
+  }
+}
